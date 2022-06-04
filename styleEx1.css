@@ -1,5 +1,5 @@
 .box{
-    background:url(./img/svg/17-athletics.svg);
+    background:url(./img/svg/17-athletics.svg) ;
 }
 .box:hover{
    transition: all 700ms; 
